@@ -3,6 +3,8 @@
 > "When you say 'I don't care about the right to privacy because I have nothing to hide,' that's no different than saying 'I don't care about freedom of speech because I have nothing to say.'" — Edward Snowden
  
 We build software and hardware for people, not for shareholders, surveillance vendors, or the HR department that inevitably shows up to ruin it.
+
+(PSA. This org is a mirror of <https://git.shitpost.work/shitpost.work> for simplicity's sake, more code can be found there.)
  
 ---
 
